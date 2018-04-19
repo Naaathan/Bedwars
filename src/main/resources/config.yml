@@ -1,0 +1,12 @@
+storage:
+  # file/mysql
+  type: file
+  file:
+    arenas: arenas.yml
+    players: players.yml
+  mysql:
+    host: localhost
+    port: 3306
+    database: bedwars
+    user: bedwars
+    password: abc123

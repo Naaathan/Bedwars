@@ -1,0 +1,4 @@
+name: Bedwars
+version: 0.1.0-SNAPSHOT
+main: net.kyuzi.bedwars.Bedwars
+author: Nathan
